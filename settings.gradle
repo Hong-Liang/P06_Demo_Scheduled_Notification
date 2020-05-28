@@ -1,0 +1,2 @@
+rootProject.name='P06_Demo_Scheduled_Notification'
+include ':app'
